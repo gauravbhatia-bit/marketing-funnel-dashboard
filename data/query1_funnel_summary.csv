@@ -1,0 +1,6 @@
+channel,total_impressions,total_clicks,total_leads,total_customers,total_spend_eur,ctr_pct,cvr_pct,close_rate_pct,cac_eur
+Facebook,1083912,60713,6127,1017,54780.14,5.6,10.09,16.6,53.86
+LinkedIn,1107548,50941,6038,1103,58637.95,4.6,11.85,18.27,53.16
+Google Ads,1215680,52904,5817,885,49096.89,4.35,11.0,15.21,55.48
+Direct,992563,44456,5571,1005,55520.7,4.48,12.53,18.04,55.24
+Email,1157836,52811,4247,738,54825.14,4.56,8.04,17.38,74.29
